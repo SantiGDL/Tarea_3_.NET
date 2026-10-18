@@ -406,3 +406,4 @@
 /tmp/tarea3-review-build/Tarea_3.runtimeconfig.json
 /tmp/tarea3-review-build/Tarea_3.dll
 /tmp/tarea3-review-build/Tarea_3.pdb
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/Tarea_3.sourcelink.json
