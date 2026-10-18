@@ -1,0 +1,54 @@
+@model Libro
+@{
+    ViewBag.Title = "title";
+    Layout = "_Layout";
+}
+
+<h1>Eliminar Libro</h1>
+
+<h3>¿Esta seguro que quier borrar el vehiculo?</h3>
+<div>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Isbn)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Titulo)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Autor)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.FechaPublicacion)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Isbn)
+        </dt>
+        <dt class="col-sm-10">
+            @Html.DisplayFor(model => model.Titulo)
+        </dt>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Autor)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.FechaPublicacion)
+        </dd>
+    </dl>
+    
+    <!-- Genera un http POST enviando en el body del http la matricula,
+      
+    Desde el punto de vista de la web y cómo funciona HTTP, 
+    un form action (la acción de un formulario) no es algo específico de ASP.NET Core,
+    sino una característica estándar de HTML.
+
+    El action de un formulario es la URL del servidor a la que se envían los datos del 
+    formulario cuando el usuario hace clic en el botón de enviar (submit).
+
+    -->
+    <form asp-action="ConfirmarEliminarLibro">
+        <input type="hidden" asp-for="Isbn" />
+        <input type="submit" value="SuperBorrar" class="btn btn-danger" /> |
+        <a asp-action="ListarLibros">Volver</a>
+    </form>
+</div>

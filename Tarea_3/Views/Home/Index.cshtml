@@ -1,0 +1,11 @@
+@{
+    ViewBag.Title = "title";
+    Layout = "_Layout";
+}
+
+<h1 class="text-center">Aplicación web dinámica con Razor</h1>
+
+<div class="text-center" style="font-size: 28px">
+    <!--La ventaja de hacerlo asi es que si cambia la ruta el framwork la adapta-->
+    <a asp-controller="Libro" asp-action="ListarLibros"> Listar Libros y CRUD</a>
+</div>

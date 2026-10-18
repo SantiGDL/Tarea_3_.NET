@@ -1,0 +1,28 @@
+@model Libro
+
+@{
+<h1>Detalle</h1>
+
+<div>
+    <h4>Libro</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Isbn)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Titulo)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Autor)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.FechaPublicacion)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="EditarLibro" asp-route-id="@Model.Isbn">Editar</a> |
+    <a asp-action="ListarLibros">Regresar</a>
+</div>
+}

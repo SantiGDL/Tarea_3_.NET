@@ -1,0 +1,85 @@
+@model Libro
+
+@{
+    ViewData["Title"] = "Editar";
+}
+
+<h1>Editar Libro</h1>
+<hr />
+<div>
+    <h4>Libro</h4>
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Isbn)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Isbn)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Titulo)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Titulo)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Autor)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Autor)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.FechaPublicacion)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.FechaPublicacion)
+        </dd>
+    </dl>
+</div>
+<hr />
+<!--Formulario Editar-->
+<h2>Editar</h2>
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="ConfirmarEditarLibro">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Titulo" class="control-label"></label>
+                <input asp-for="Titulo" class="form-control" />
+                <span asp-validation-for="Titulo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Autor" class="control-label"></label>
+                <input asp-for="Autor" class="form-control" />
+                <span asp-validation-for="Autor" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="FechaPublicacion" class="control-label"></label>
+                <input asp-for="FechaPublicacion" class="form-control" />
+                <span asp-validation-for="FechaPublicacion" class="text-danger"></span>
+            </div>
+            
+            <!--Aca mando el Isbn como un input hidden-->
+            <div>
+                <input type="hidden" asp-for="Isbn" />
+            </div>
+            
+            <div class="form-group">
+                <input type="submit" value="Guardar Cambios" class="btn btn-primary" />
+            </div>
+            
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="ListarLibros">Volver</a>
+</div>
+
+
+@section Scripts {
+    @{
+        //esto lo genera Visual Studio automáticamente cuando se crea un proyecto MVC para activar
+        //la validación de los datos del modelo en el cliente (navegador) y no solo en el servidor
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

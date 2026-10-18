@@ -1,0 +1,408 @@
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/bin/Debug/net10.0/appsettings.Development.json
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/bin/Debug/net10.0/appsettings.json
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/bin/Debug/net10.0/Tarea_3.staticwebassets.runtime.json
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/bin/Debug/net10.0/Tarea_3.staticwebassets.endpoints.json
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/bin/Debug/net10.0/Tarea_3
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/bin/Debug/net10.0/Tarea_3.deps.json
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/bin/Debug/net10.0/Tarea_3.runtimeconfig.json
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/bin/Debug/net10.0/Tarea_3.dll
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/bin/Debug/net10.0/Tarea_3.pdb
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/rpswa.dswa.cache.json
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/Tarea_3.GeneratedMSBuildEditorConfig.editorconfig
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/Tarea_3.AssemblyInfoInputs.cache
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/Tarea_3.AssemblyInfo.cs
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/Tarea_3.csproj.CoreCompileInputs.cache
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/Tarea_3.MvcApplicationPartsAssemblyInfo.cache
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/Tarea_3.RazorAssemblyInfo.cache
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/Tarea_3.RazorAssemblyInfo.cs
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/rjimswa.dswa.cache.json
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/scopedcss/bundle/Tarea_3.styles.css
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/scopedcss/projectbundle/Tarea_3.bundle.scp.css
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/qlf6sva1av-{0}-lugek5hnai-lugek5hnai.gz
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/uc7yjnip23-{0}-61n19gt1b8-61n19gt1b8.gz
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/6jcbbxkagt-{0}-fr7q2aak1r-fr7q2aak1r.gz
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/leqe6xh5ga-{0}-bqjiyaj88i-bqjiyaj88i.gz
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/h19vqh1usl-{0}-c2jlpeoesf-c2jlpeoesf.gz
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/e1etz21jhk-{0}-erw9l3u2r3-erw9l3u2r3.gz
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/g9lnz7s7x9-{0}-aexeepp0ev-aexeepp0ev.gz
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/15oyvkzr42-{0}-d7shbmvgxk-d7shbmvgxk.gz
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/7lh2jny649-{0}-ausgxo2sd3-ausgxo2sd3.gz
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/8i0dokti1x-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/ipw7i0po99-{0}-cosvhxvwiu-cosvhxvwiu.gz
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/vsu6292m9f-{0}-ub07r2b239-ub07r2b239.gz
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/wjcormcqmf-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/6y6tqyhkm3-{0}-b7pk76d08c-b7pk76d08c.gz
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/4dnu7sgcb0-{0}-fsbi9cje9m-fsbi9cje9m.gz
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/r8g3q9jv55-{0}-rzd6atqjts-rzd6atqjts.gz
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/y45g0g53vl-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/esp78mgzee-{0}-dxx9fxp4il-dxx9fxp4il.gz
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/evhbdyse59-{0}-jd9uben2k1-jd9uben2k1.gz
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/fzjeasypja-{0}-khv3u5hwcm-khv3u5hwcm.gz
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/7aczrlryra-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/zr937wuzf7-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/u4orcis6yg-{0}-c2oey78nd0-c2oey78nd0.gz
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/lhk0lhxn2y-{0}-tdbxkamptv-tdbxkamptv.gz
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/x4hfx9ipwp-{0}-j5mq2jizvt-j5mq2jizvt.gz
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/g0p81xlyf1-{0}-06098lyss8-06098lyss8.gz
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/ohwdua3i4i-{0}-nvvlpmu67g-nvvlpmu67g.gz
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/ta3355t7pf-{0}-s35ty4nyc5-s35ty4nyc5.gz
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/p8r6pyfn4b-{0}-pj5nd1wqec-pj5nd1wqec.gz
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/zshlgbwwqh-{0}-46ein0sx1k-46ein0sx1k.gz
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/rh8gcjzcyk-{0}-v0zj4ognzu-v0zj4ognzu.gz
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/xbudgjfb4v-{0}-37tfw0ft22-37tfw0ft22.gz
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/ns8qy5fumi-{0}-hrwsygsryq-hrwsygsryq.gz
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/4k9qbelhqh-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/ji7g4obsz7-{0}-ft3s53vfgj-ft3s53vfgj.gz
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/adjc1inzf3-{0}-6cfz1n2cew-6cfz1n2cew.gz
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/204lu7qha4-{0}-6pdc2jztkx-6pdc2jztkx.gz
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/t7bw397c30-{0}-493y06b0oq-493y06b0oq.gz
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/47njo0b4f6-{0}-iovd86k7lj-iovd86k7lj.gz
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/2n5ga32a26-{0}-vr1egmr9el-vr1egmr9el.gz
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/tpw5mimmi9-{0}-kbrnm935zg-kbrnm935zg.gz
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/51ux5yqxjx-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/rqbmdwuv0q-{0}-y7v9cxd14o-y7v9cxd14o.gz
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/4nczjhhhqd-{0}-notf2xhcfb-notf2xhcfb.gz
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/ufxbxrysv3-{0}-h1s4sie4z3-h1s4sie4z3.gz
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/alvfmc2w7m-{0}-63fj8s7r0e-63fj8s7r0e.gz
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/whk8kntu3z-{0}-0j3bgjxly4-0j3bgjxly4.gz
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/lbmd4dsopx-{0}-47otxtyo56-47otxtyo56.gz
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/dtic919zrx-{0}-4v8eqarkd7-4v8eqarkd7.gz
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/650a5j92d2-{0}-l3n5xuwxn8-l3n5xuwxn8.gz
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/0xrxbeajuy-{0}-ilo7uva0vt-ilo7uva0vt.gz
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/yzluvnmp9s-{0}-qlccset4i1-qlccset4i1.gz
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/oyefjfeqlg-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/0vmq97qojf-{0}-ag7o75518u-ag7o75518u.gz
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/lbtl0c3zzh-{0}-xzw0cte36n-xzw0cte36n.gz
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/4q1m81inhb-{0}-0i3buxo5is-0i3buxo5is.gz
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/djtbt5ecam-{0}-o1o13a6vjx-o1o13a6vjx.gz
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/gk6sy3u8kc-{0}-ttgo8qnofa-ttgo8qnofa.gz
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/t4kkdbfl4f-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/8v3izhz0er-{0}-muycvpuwrr-muycvpuwrr.gz
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/mpxl3wf41b-{0}-87fc7y1x7t-87fc7y1x7t.gz
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/s3t53apu8s-{0}-jfsiqqwiad-jfsiqqwiad.gz
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/pustbrhkx2-{0}-t0izh1d60j-t0izh1d60j.gz
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/psg8qzkp0h-{0}-t0izh1d60j-t0izh1d60j.gz
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/staticwebassets.build.json
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/staticwebassets.build.json.cache
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/staticwebassets.development.json
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/swae.build.ex.cache
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/Tarea_3.dll
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/refint/Tarea_3.dll
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/Tarea_3.pdb
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/Tarea_3.genruntimeconfig.cache
+/home/santi-kun/RiderProjects/Tarea_3/Tarea_3/obj/Debug/net10.0/ref/Tarea_3.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/appsettings.Development.json
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/appsettings.json
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/Tarea_3.staticwebassets.endpoints.json
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/Tarea_3.staticwebassets.runtime.json
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/Tarea_3
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/Tarea_3.deps.json
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/Tarea_3.runtimeconfig.json
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/Tarea_3.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/Tarea_3.pdb
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/Humanizer.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/Microsoft.AspNetCore.Razor.Language.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/Microsoft.Build.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/Microsoft.Build.Framework.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/Microsoft.CodeAnalysis.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/Microsoft.CodeAnalysis.Elfie.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/Microsoft.CodeAnalysis.Features.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/Microsoft.CodeAnalysis.Razor.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/Microsoft.CodeAnalysis.Scripting.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/Microsoft.DiaSymReader.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/Microsoft.DotNet.Scaffolding.Shared.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/Microsoft.Extensions.DependencyModel.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/Microsoft.NET.StringTools.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/Microsoft.VisualStudio.SolutionPersistence.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/dotnet-aspnet-codegenerator-design.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/Mono.TextTemplating.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/Newtonsoft.Json.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/NuGet.Common.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/NuGet.Configuration.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/NuGet.DependencyResolver.Core.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/NuGet.Frameworks.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/NuGet.LibraryModel.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/NuGet.Packaging.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/NuGet.ProjectModel.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/NuGet.Protocol.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/NuGet.Versioning.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/System.CodeDom.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/System.Composition.AttributedModel.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/System.Composition.Convention.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/System.Composition.Hosting.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/System.Composition.Runtime.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/System.Composition.TypedParts.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/System.Configuration.ConfigurationManager.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/System.Reflection.MetadataLoadContext.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/System.Security.Cryptography.ProtectedData.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/af/Humanizer.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/ar/Humanizer.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/az/Humanizer.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/bg/Humanizer.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/bn-BD/Humanizer.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/cs/Humanizer.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/da/Humanizer.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/de/Humanizer.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/el/Humanizer.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/es/Humanizer.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/fa/Humanizer.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/fi-FI/Humanizer.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/fr/Humanizer.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/fr-BE/Humanizer.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/he/Humanizer.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/hr/Humanizer.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/hu/Humanizer.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/hy/Humanizer.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/id/Humanizer.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/is/Humanizer.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/it/Humanizer.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/ja/Humanizer.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/ko-KR/Humanizer.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/ku/Humanizer.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/lv/Humanizer.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/ms-MY/Humanizer.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/mt/Humanizer.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/nb/Humanizer.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/nb-NO/Humanizer.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/nl/Humanizer.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/pl/Humanizer.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/pt/Humanizer.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/ro/Humanizer.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/ru/Humanizer.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/sk/Humanizer.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/sl/Humanizer.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/sr/Humanizer.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/sr-Latn/Humanizer.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/sv/Humanizer.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/th-TH/Humanizer.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/tr/Humanizer.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/uk/Humanizer.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/uz-Cyrl-UZ/Humanizer.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/uz-Latn-UZ/Humanizer.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/vi/Humanizer.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/zh-CN/Humanizer.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/zh-Hans/Humanizer.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/zh-Hant/Humanizer.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/bin/Debug/net10.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/Tarea_3.csproj.AssemblyReference.cache
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/rpswa.dswa.cache.json
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/Tarea_3.GeneratedMSBuildEditorConfig.editorconfig
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/Tarea_3.AssemblyInfoInputs.cache
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/Tarea_3.AssemblyInfo.cs
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/Tarea_3.csproj.CoreCompileInputs.cache
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/Tarea_3.MvcApplicationPartsAssemblyInfo.cache
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/Tarea_3.RazorAssemblyInfo.cache
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/Tarea_3.RazorAssemblyInfo.cs
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/rjimswa.dswa.cache.json
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/scopedcss/bundle/Tarea_3.styles.css
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/scopedcss/projectbundle/Tarea_3.bundle.scp.css
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/qlf6sva1av-{0}-lugek5hnai-lugek5hnai.gz
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/uc7yjnip23-{0}-61n19gt1b8-61n19gt1b8.gz
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/6jcbbxkagt-{0}-fr7q2aak1r-fr7q2aak1r.gz
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/leqe6xh5ga-{0}-bqjiyaj88i-bqjiyaj88i.gz
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/h19vqh1usl-{0}-c2jlpeoesf-c2jlpeoesf.gz
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/e1etz21jhk-{0}-erw9l3u2r3-erw9l3u2r3.gz
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/g9lnz7s7x9-{0}-aexeepp0ev-aexeepp0ev.gz
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/15oyvkzr42-{0}-d7shbmvgxk-d7shbmvgxk.gz
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/7lh2jny649-{0}-ausgxo2sd3-ausgxo2sd3.gz
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/8i0dokti1x-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/ipw7i0po99-{0}-cosvhxvwiu-cosvhxvwiu.gz
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/vsu6292m9f-{0}-ub07r2b239-ub07r2b239.gz
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/wjcormcqmf-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/6y6tqyhkm3-{0}-b7pk76d08c-b7pk76d08c.gz
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/4dnu7sgcb0-{0}-fsbi9cje9m-fsbi9cje9m.gz
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/r8g3q9jv55-{0}-rzd6atqjts-rzd6atqjts.gz
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/y45g0g53vl-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/esp78mgzee-{0}-dxx9fxp4il-dxx9fxp4il.gz
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/evhbdyse59-{0}-jd9uben2k1-jd9uben2k1.gz
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/fzjeasypja-{0}-khv3u5hwcm-khv3u5hwcm.gz
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/7aczrlryra-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/zr937wuzf7-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/u4orcis6yg-{0}-c2oey78nd0-c2oey78nd0.gz
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/lhk0lhxn2y-{0}-tdbxkamptv-tdbxkamptv.gz
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/x4hfx9ipwp-{0}-j5mq2jizvt-j5mq2jizvt.gz
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/g0p81xlyf1-{0}-06098lyss8-06098lyss8.gz
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/ohwdua3i4i-{0}-nvvlpmu67g-nvvlpmu67g.gz
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/ta3355t7pf-{0}-s35ty4nyc5-s35ty4nyc5.gz
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/p8r6pyfn4b-{0}-pj5nd1wqec-pj5nd1wqec.gz
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/zshlgbwwqh-{0}-46ein0sx1k-46ein0sx1k.gz
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/rh8gcjzcyk-{0}-v0zj4ognzu-v0zj4ognzu.gz
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/xbudgjfb4v-{0}-37tfw0ft22-37tfw0ft22.gz
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/ns8qy5fumi-{0}-hrwsygsryq-hrwsygsryq.gz
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/4k9qbelhqh-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/ji7g4obsz7-{0}-ft3s53vfgj-ft3s53vfgj.gz
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/adjc1inzf3-{0}-6cfz1n2cew-6cfz1n2cew.gz
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/204lu7qha4-{0}-6pdc2jztkx-6pdc2jztkx.gz
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/t7bw397c30-{0}-493y06b0oq-493y06b0oq.gz
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/47njo0b4f6-{0}-iovd86k7lj-iovd86k7lj.gz
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/2n5ga32a26-{0}-vr1egmr9el-vr1egmr9el.gz
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/tpw5mimmi9-{0}-kbrnm935zg-kbrnm935zg.gz
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/51ux5yqxjx-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/rqbmdwuv0q-{0}-y7v9cxd14o-y7v9cxd14o.gz
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/4nczjhhhqd-{0}-notf2xhcfb-notf2xhcfb.gz
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/ufxbxrysv3-{0}-h1s4sie4z3-h1s4sie4z3.gz
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/alvfmc2w7m-{0}-63fj8s7r0e-63fj8s7r0e.gz
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/whk8kntu3z-{0}-0j3bgjxly4-0j3bgjxly4.gz
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/lbmd4dsopx-{0}-47otxtyo56-47otxtyo56.gz
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/dtic919zrx-{0}-4v8eqarkd7-4v8eqarkd7.gz
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/650a5j92d2-{0}-l3n5xuwxn8-l3n5xuwxn8.gz
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/0xrxbeajuy-{0}-ilo7uva0vt-ilo7uva0vt.gz
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/yzluvnmp9s-{0}-qlccset4i1-qlccset4i1.gz
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/oyefjfeqlg-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/0vmq97qojf-{0}-ag7o75518u-ag7o75518u.gz
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/lbtl0c3zzh-{0}-xzw0cte36n-xzw0cte36n.gz
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/4q1m81inhb-{0}-0i3buxo5is-0i3buxo5is.gz
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/djtbt5ecam-{0}-o1o13a6vjx-o1o13a6vjx.gz
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/gk6sy3u8kc-{0}-ttgo8qnofa-ttgo8qnofa.gz
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/t4kkdbfl4f-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/8v3izhz0er-{0}-muycvpuwrr-muycvpuwrr.gz
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/mpxl3wf41b-{0}-87fc7y1x7t-87fc7y1x7t.gz
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/s3t53apu8s-{0}-jfsiqqwiad-jfsiqqwiad.gz
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/pustbrhkx2-{0}-t0izh1d60j-t0izh1d60j.gz
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/compressed/psg8qzkp0h-{0}-t0izh1d60j-t0izh1d60j.gz
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/staticwebassets.build.json
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/staticwebassets.build.json.cache
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/staticwebassets.development.json
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/swae.build.ex.cache
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/Tarea_3.csproj.Up2Date
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/Tarea_3.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/refint/Tarea_3.dll
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/Tarea_3.pdb
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/Tarea_3.genruntimeconfig.cache
+/home/santi-kun/Escritorio/Ultimo Semestre/Punto Net/Tareas/Tarea 3/Tarea_3/Tarea_3/obj/Debug/net10.0/ref/Tarea_3.dll
+/tmp/tarea3-review-build/appsettings.Development.json
+/tmp/tarea3-review-build/appsettings.json
+/tmp/tarea3-review-build/Tarea_3.staticwebassets.runtime.json
+/tmp/tarea3-review-build/Tarea_3.staticwebassets.endpoints.json
+/tmp/tarea3-review-build/Tarea_3
+/tmp/tarea3-review-build/Tarea_3.deps.json
+/tmp/tarea3-review-build/Tarea_3.runtimeconfig.json
+/tmp/tarea3-review-build/Tarea_3.dll
+/tmp/tarea3-review-build/Tarea_3.pdb

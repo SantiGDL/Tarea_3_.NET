@@ -1,0 +1,44 @@
+@model IEnumerable<Libro>
+
+@{
+    ViewBag.Title = "title";
+    Layout = "_Layout";
+}
+
+<h1 class="text-center">Listar Libros y CRUD</h1>
+
+<a asp-controller="Libro" asp-action="CrearLibro"> Crear Libro</a>
+
+<!--Copio la tabla basica de bootstrap-->
+<table class="table">
+    <thead>
+    <tr>
+        <th >@Html.DisplayNameFor(model => model.Isbn)</th>
+        <th>@Html.DisplayNameFor(model => model.Titulo)</th>
+        <th>@Html.DisplayNameFor(model => model.Autor)</th>
+        <th>@Html.DisplayNameFor(model => model.FechaPublicacion)</th>
+        <th>Acciones</th>
+    </tr>
+    </thead>
+    <tbody>
+        @foreach (var libro in Model)
+        {
+            <tr>
+                <td> @Html.DisplayFor(modelItem => libro.Isbn) </td>
+                <td> @Html.DisplayFor(modelItem => libro.Titulo) </td>
+                <td> @Html.DisplayFor(modelItem => libro.Autor) </td>
+                <td> @Html.DisplayFor(modelItem => libro.FechaPublicacion)
+                <td>
+                    <!--Puedo no especificar el controller porque se asume que es el de la pantalla en que estoy-->
+                    <a asp-action="VerDetalle" asp-route-isbn="@libro.Isbn"> Ver </a>
+                    |
+                    <a asp-controller="Libro" asp-action="EditarLibro" asp-route-isbn="@libro.Isbn"> Editar</a>
+                    |
+                    <a asp-controller="Libro" asp-action="EliminarLibro" asp-route-isbn="@libro.Isbn"> Eliminar</a>
+                </td>
+            </tr>
+            
+        }
+   
+    </tbody>
+</table>
