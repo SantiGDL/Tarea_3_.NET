@@ -17,7 +17,7 @@ namespace Tarea_3
 
         }
         
-        // GET: LibroController/ObtenerLibros
+        // GET: LibroController/ListarLibros
         public ActionResult ListarLibros()
         {
             return View(this._libroRepository.getLibros());
@@ -78,7 +78,7 @@ namespace Tarea_3
             return View(libroBuscado);
         }
 
-        // GET: LibroController/EditarLibro/5
+        // GET: LibroController/ConfirmarEditarLibro/5
         public ActionResult ConfirmarEditarLibro([Bind("Isbn, Titulo,Autor,FechaPublicacion")] Libro libroEditado)
         {
             try
@@ -110,7 +110,7 @@ namespace Tarea_3
             return View(libroBuscado);
         }
 
-        // POST: LibroController/EliminarLibro/5
+        // POST: LibroController/ConfirmarEliminarLibro/5
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult ConfirmarEliminarLibro(string isbn, IFormCollection collection)
@@ -125,22 +125,6 @@ namespace Tarea_3
             {
                 //Si no funciona lo vuelvo dejar en EliminarLibro
                 return RedirectToAction(nameof(EliminarLibro));
-            }
-        }
-        
-       
-        // POST: LibroController/ConfirmarBorrado/5
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public ActionResult ConfirmarBorrado(int id, IFormCollection collection)
-        {
-            try
-            {
-                return RedirectToAction(nameof(Index));
-            }
-            catch
-            {
-                return View();
             }
         }
         
